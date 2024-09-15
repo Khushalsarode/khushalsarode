@@ -1,9 +1,7 @@
 
 <!---
-your comment goes here
-and here
+Girlscript summer of code badges showcase 2024
 -->
-
 <details>	
  <summary><b>GSSOC(24) Badges </b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
