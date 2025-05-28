@@ -16,3 +16,8 @@ Girlscript summer of code badges showcase 2024
  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
 </div>
 </details>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushalsarode&show_icons=true&locale=en&layout=compact" alt="khushalsarode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushalsarode&show_icons=true&locale=en" alt="khushalsarode" /></p>
