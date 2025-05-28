@@ -18,11 +18,12 @@ Girlscript summer of code badges showcase 2024
 </details>
 
 
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushalsarode&show_icons=true&locale=en&layout=compact" alt="khushalsarode" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushalsarode&show_icons=true&locale=en" alt="khushalsarode" /></p>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=khushalsarode)
 
 ![Visitor Count](https://profile-counter.glitch.me/khushalsarode/count.svg)
+-->
 
