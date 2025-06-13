@@ -18,6 +18,30 @@ Girlscript summer of code badges showcase 2024
 </details>
 
 
+
+[![Listen on SoundCloud](https://img.shields.io/badge/SoundCloud-Listen-orange?logo=soundcloud)](https://on.soundcloud.com/CgrM6uxqFveA8b94H4)
+
+
+<!--
+<table>
+  <tr>
+    <td>
+      <a href="https://on.soundcloud.com/CgrM6uxqFveA8b94H4">
+        <img src="https://i1.sndcdn.com/artworks-xxxxxx-t500x500.jpg" width="200"/>
+      </a>
+    </td>
+    <td>
+      <b>🎵 My Latest Track</b><br/>
+      <a href="https://on.soundcloud.com/CgrM6uxqFveA8b94H4">Click here to listen on SoundCloud</a><br/>
+      Artist: Khushal Sarode<br/>
+      Length: ~2:30 mins (you can write this manually)<br/>
+      🎧 Enjoy!
+    </td>
+  </tr>
+</table>
+-->
+
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushalsarode&show_icons=true&locale=en&layout=compact" alt="khushalsarode" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushalsarode&show_icons=true&locale=en" alt="khushalsarode" /></p>
@@ -26,4 +50,5 @@ Girlscript summer of code badges showcase 2024
 
 ![Visitor Count](https://profile-counter.glitch.me/khushalsarode/count.svg)
 -->
+
 
