@@ -21,6 +21,9 @@ Girlscript summer of code badges showcase 2024
 
 [![Listen on SoundCloud](https://img.shields.io/badge/SoundCloud-Listen-orange?logo=soundcloud)](https://on.soundcloud.com/CgrM6uxqFveA8b94H4)
 
+## 🎧 Listen to My Track
+
+[▶️ Click here to open the embedded SoundCloud player](https://khushalsarode.github.io/khushalsarode/track.html)
 
 <!--
 <table>
